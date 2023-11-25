@@ -10,7 +10,7 @@ CatalystPHP: A type-safe, dependency-free PHP framework designed for developers 
 - **Comprehensive Validation Rules**: Includes a set of built-in validation rules, allowing for easy and effective data validation.
 
 ## Framework Overview
-![Framework Overview](images/FraeworkOverview.png)
+![Framework Overview](images/FrameworkOverview.png)
 
 ## Table of Contents
 
